@@ -561,6 +561,4 @@ php artisan test
 
 ---
 
-## 📝 License
 
-This is a learning management system built for educational purposes.
